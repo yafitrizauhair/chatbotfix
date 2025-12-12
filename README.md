@@ -1,7 +1,7 @@
 
 
 
-# 🧠 Chatbot Frontend — Quick Setup
+# 🧠 Chatbot Frontend  & Backend— Quick Setu
 
 Frontend ini dibangun dengan **React.js (Vite)**. Ikuti langkah mudah di bawah untuk menginstall dan menjalankan project.
 
