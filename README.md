@@ -1,41 +1,61 @@
 
+---
 
+# 🧠 Chatbot Frontend & Backend — Quick Setup
 
-# 🧠 Chatbot Frontend  & Backend— Quick Setup
-
-Frontend ini dibangun dengan **React.js (Vite)**. Ikuti langkah mudah di bawah untuk menginstall dan menjalankan project.
+Project ini terdiri dari **Frontend (React + Vite)** dan **Backend (Node.js + Express)**.
+Ikuti langkah berikut untuk meng-install dan menjalankan seluruh project.
 
 ---
 
 ## 📦 1. Install Dependencies
 
-Pastikan Anda berada di folder **frontend**:
+### **Frontend**
 
-bash
+Pastikan berada di folder **frontend**:
+
+```bash
 cd frontend
 npm install
+```
 
- backendnya juga sama
- buka terminal lagi
- cd backend
- npm install
+### **Backend**
+
+Buka terminal baru, lalu masuk ke folder **backend**:
+
+```bash
+cd backend
+npm install
+```
+
 ---
 
-## ▶️ 2. Jalankan Project frontend dan backend
-diterminal frontend pastikan di path chatbot/frontend
- npm start
+## ▶️ 2. Menjalankan Project
 
- backend
- diterminal backend dan pastikan dipath chatbot/backend
- npm run bakcend
+### **Frontend**
 
-Aplikasi akan berjalan di:
+Di terminal yang berada pada folder *chatbot/frontend*:
 
+```bash
+npm start
+```
 
+### **Backend**
+
+Di terminal yang berada pada folder *chatbot/backend*:
+
+```bash
+npm run backend
+```
+
+---
+
+## 🌐 URL Aplikasi
+
+Setelah berjalan, frontend dapat diakses melalui:
+
+```
 http://localhost:5173/
-
-
+```
 
 ---
-
-Jika ingin ditambahkan screenshot, fitur aplikasi, atau struktur folder — tinggal bilang!
