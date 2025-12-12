@@ -1,0 +1,284 @@
+[
+  {
+    "keywords": [
+      "ganti device", "tidak bisa absen", "device baru",
+      "absen tidak bisa karena ganti hp", "hp baru tidak bisa absen",
+      "absen gagal setelah ganti handphone", "absen device berubah",
+      "kenapa absen tidak bisa setelah ganti perangkat"
+    ],
+    "question": "Kenapa akun saya tidak bisa absen jika ganti device?",
+    "answer": "Jika setiap karyawan absen harus di 1 device yang sama seperti awal registrasi, atau bisa chat ke WhatsApp Super Admin BSDM mereset untuk absen di device baru."
+  },
+  {
+    "keywords": [
+      "check in", "absen masuk", "kemlu go",
+      "cara absen masuk", "bagaimana check in", "absen kemlu masuk",
+      "cara check in kemlu go", "tidak bisa check in", "check in dimana"
+    ],
+    "question": "Bagaimana cara melakukan check-in (absen masuk) di aplikasi Kemlu Go?",
+    "answer": "Buka aplikasi Kemlu Go, pilih menu Absensi, pastikan lokasi GPS sudah aktif, lalu tekan tombol Check In."
+  },
+  
+{
+    "keywords": [
+    "transportasi",
+    "kendala transportasi",
+    "terlambat",
+    "terlambat masuk",
+    "kendala",
+    "motor mogok",
+    "mogok",
+    "ban bocor",
+    "macet",
+    "kendaraan rusak",
+    "masalah kendaraan",
+    "kecelakaan ringan",
+    "terlambat karena motor",
+    "terlambat karena mogok",
+    "kendala di jalan",
+    "kendala perjalanan",
+    "terhambat di jalan"
+  ],
+  "question": "Bagaimana jika pegawai terlambat karena kendala transportasi umum/kendaraan pribadi?",
+  "answer": "Jika pegawai terlambat absen karena kendala transportasi (motor mogok, ban bocor, macet, dan sebagainya), maka pegawai dapat dibebaskan dari pemotongan keterlambatan.\n\nDokumen pendukung:\n• Surat keterangan kejadian (jika diperlukan)\n• Foto kondisi kendaraan atau situasi\n• Form Daftar Hadir Manual.\n\nPegawai tetap dapat absen pulang tepat waktu sesuai aturan."
+},
+
+  {
+    "keywords": [
+      "lupa kata sandi", "reset password", "kemlu go",
+      "password lupa", "bagaimana reset kemlu go",
+      "lupa pass kemlu go", "akun kemlu go lupa sandi"
+    ],
+    "question": "Saya lupa kata sandi Kemlu Go, bagaimana cara meresetnya?",
+    "answer": "Klik 'Lupa Kata Sandi' di halaman login aplikasi Kemlu Go, lalu ikuti instruksi yang dikirimkan ke email atau hubungi Super Admin BSDM."
+  },
+  {
+    "keywords": [
+      "geofencing", "jarak absen", "radius kantor",
+      "absen jauh dari kantor", "kenapa harus dekat kantor",
+      "tidak bisa absen karena jarak", "lokasi terlalu jauh saat absen"
+    ],
+    "question": "Apakah ada batasan jarak (geofencing) untuk absen di Kemlu Go?",
+    "answer": "Ya, absen hanya bisa dilakukan dalam radius kantor yang sudah ditentukan. Pastikan GPS Anda akurat."
+  },
+  {
+    "keywords": [
+      "ditolak", "absen ditolak", "lokasi kantor",
+      "absen gagal padahal di kantor", "absen ditolak lokasi benar",
+      "absen ditolak gps", "absen bermasalah di kantor"
+    ],
+    "question": "Kenapa absen saya ditolak padahal sudah di lokasi kantor?",
+    "answer": "Cek koneksi internet Anda, pastikan GPS sudah akurat, atau coba restart aplikasi. Jika masih gagal, laporkan ke Admin Satker Anda."
+  },
+  {
+    "keywords": [
+      "tunkin", "pencairan", "kapan cair",
+      "kapan tunkin cair", "tunkin bulan ini kapan",
+      "tunjangan kemlu cair kapan"
+    ],
+    "question": "Kapan tunjangan kinerja (Tunkin) bulan ini akan dicairkan?",
+    "answer": "Pencairan Tunkin biasanya dilakukan pada tanggal tertentu setiap bulannya. Informasi tanggal pasti akan diumumkan melalui pengumuman resmi."
+  },
+  {
+    "keywords": [
+      "potongan tunkin", "rincian tunkin",
+      "lihat potongan tunkin", "rincian pengurangan tunkin",
+      "cara cek potongan tunkin"
+    ],
+    "question": "Bagaimana cara melihat rincian potongan Tunkin saya?",
+    "answer": "Anda dapat melihat rincian potongan Tunkin pada slip gaji atau melalui menu Tunkin di Payroll Management System."
+  },
+  {
+    "keywords": [
+      "faktor tunkin", "besaran tunkin",
+      "apa yang mempengaruhi tunkin", "penentu tunkin",
+      "kenapa tunkin berbeda"
+    ],
+    "question": "Apa saja faktor yang memengaruhi besaran Tunkin saya?",
+    "answer": "Besaran Tunkin dipengaruhi oleh capaian kinerja, kehadiran, dan disiplin pegawai sesuai ketentuan yang berlaku."
+  },
+  {
+    "keywords": [
+      "perbaikan tunkin", "data tunkin",
+      "data tunkin salah", "tunkin kurang",
+      "perbaikan nominal tunkin"
+    ],
+    "question": "Bagaimana prosedur perbaikan data jika Tunkin pegawai ada yang kurang?",
+    "answer": "Ajukan permohonan perbaikan data melalui Admin Satker kepada bagian SDM/Keuangan dengan melampirkan bukti pendukung."
+  },
+  {
+    "keywords": [
+      "cuti sakit", "tunkin sakit",
+      "tunkin saat cuti sakit", "apakah tunkin dibayar saat sakit"
+    ],
+    "question": "Jika saya cuti sakit, apakah Tunkin saya tetap dibayarkan penuh?",
+    "answer": "Tunkin untuk cuti sakit diatur sesuai dengan peraturan kepegawaian yang berlaku, biasanya ada ketentuan maksimal hari."
+  },
+  {
+    "keywords": [
+      "cacah jiwa", "update keluarga",
+      "ubah data keluarga", "update cacah jiwa",
+      "perbarui keluarga"
+    ],
+    "question": "Bagaimana cara memperbarui data anggota keluarga (Cacah Jiwa)?",
+    "answer": "Masuk ke E-layanan, pilih menu Cacah Jiwa, lalu unggah dokumen pendukung seperti Akta Kelahiran/Kartu Keluarga untuk update data."
+  },
+  {
+    "keywords": [
+      "dokumen cacah jiwa", "tambah anak",
+      "tambahkan anak di cacah jiwa", "persyaratan tambah anak"
+    ],
+    "question": "Apa dokumen yang diperlukan untuk penambahan anak di Cacah Jiwa?",
+    "answer": "Diperlukan scan Akta Kelahiran dan Kartu Keluarga yang terbaru."
+  },
+  {
+    "keywords": [
+      "cuti tahunan", "pengajuan cuti",
+      "cara mengajukan cuti tahunan", "bagaimana ajukan cuti tahunan",
+      "saya mau ajukan cuti", "ajukan cuti", "cara buat cuti tahunan",
+      "pendaftaran cuti tahunan", "prosedur cuti tahunan"
+    ],
+    "question": "Bagaimana prosedur mengajukan permohonan cuti tahunan?",
+    "answer": "Akses E-layanan, pilih menu Permohonan Cuti, isi formulir tanggal cuti, pilih jenis cuti, dan ajukan. Tunggu persetujuan atasan."
+  },
+  {
+    "keywords": [
+      "batas waktu cuti", "pengajuan cuti maksimal",
+      "berapa hari sebelum cuti", "deadline pengajuan cuti"
+    ],
+    "question": "Berapa lama batas waktu maksimal pengajuan cuti sebelum tanggal pelaksanaan?",
+    "answer": "Sebaiknya diajukan minimal 7 (tujuh) hari kerja sebelum tanggal cuti yang diinginkan."
+  },
+  {
+    "keywords": [
+      "batalkan cuti", "cancel cuti",
+      "cara membatalkan cuti", "hapus permohonan cuti"
+    ],
+    "question": "Bagaimana cara membatalkan permohonan cuti yang sudah diajukan?",
+    "answer": "Jika status cuti masih 'Menunggu Persetujuan', Anda bisa membatalkannya di E-layanan. Jika sudah 'Disetujui', Anda bisa konfirmasi ke kabag/kasubbag."
+  },
+  {
+    "keywords": [
+      "syarat tugas belajar", "tubel",
+      "syarat tubel", "aturan tugas belajar",
+      "persyaratan tugas belajar"
+    ],
+    "question": "Di mana saya bisa melihat syarat dan ketentuan Tugas Belajar?",
+    "answer": "Syarat dan ketentuan Tugas Belajar dapat diakses di E-layanan pada menu Tugas Belajar atau di laman resmi BSDM Kemlu."
+  },
+  {
+    "keywords": [
+      "masa kerja tugas belajar", "tubel 2 tahun",
+      "syarat masa kerja tubel", "masa kerja minimal tugas belajar"
+    ],
+    "question": "Apakah saya bisa mengajukan Tugas Belajar jika masa kerja saya kurang dari 2 tahun?",
+    "answer": "Persyaratan masa kerja untuk Tugas Belajar umumnya minimal 2 tahun. Silakan cek detailnya di S&K terbaru."
+  },
+  {
+    "keywords": [
+      "dokumen tugas belajar", "syarat berkas tugas belajar",
+      "dokumen tubel", "berkas tugas belajar"
+    ],
+    "question": "Dokumen apa saja yang harus disiapkan untuk permohonan Tugas Belajar?",
+    "answer": "Dokumen meliputi surat rekomendasi atasan, surat penerimaan dari institusi pendidikan, dan berkas administrasi lainnya."
+  },
+  {
+    "keywords": [
+      "laporan absensi", "cetak absensi",
+      "print absensi", "ambil laporan absensi",
+      "download absensi"
+    ],
+    "question": "Bagaimana cara mencetak laporan absensi pegawai di satker saya?",
+    "answer": "Akses fitur Admin Satker di Kemlu Go atau sistem backend SDM, pilih periode, lalu unduh dan cetak laporan absensi."
+  },
+  {
+    "keywords": [
+      "tunkin terlambat", "potongan keterlambatan",
+      "absen terlambat tunkin berkurang", "pengurangan tunkin karena terlambat"
+    ],
+    "question": "Apakah keterlambatan absen akan mengurangi besaran Tunkin?",
+    "answer": "Ya, keterlambatan absensi masuk atau pulang dapat dikenakan pengurangan Tunkin sesuai dengan peraturan disiplin yang berlaku."
+  },
+  {
+    "keywords": [
+      "check out", "absen pulang", "sinyal buruk",
+      "tidak bisa check out", "gagal absen pulang",
+      "absen pulang error", "absen pulang sinyal"
+    ],
+    "question": "Saya tidak bisa check-out (absen pulang) karena sinyal buruk. Apa yang harus saya lakukan?",
+    "answer": "Segera laporkan ke Admin Satker Anda agar dapat dibantu pengajuan absensi manual (koreksi) dengan melampirkan bukti."
+  },
+  {
+    "keywords": [
+      "sisa cuti", "kuota cuti",
+      "cek sisa cuti", "berapa sisa cuti saya",
+      "cuti tahunan sisa"
+    ],
+    "question": "Berapa sisa cuti tahunan saya tahun ini?",
+    "answer": "Sisa kuota cuti Anda bisa dicek langsung di E-layanan pada menu Permohonan Cuti atau Cuti Tahunan."
+  },
+  {
+    "keywords": [
+      "cacah jiwa update", "cacah jiwa tahunan",
+      "update data cacah jiwa"
+    ],
+    "question": "Apakah Cacah Jiwa perlu diperbarui setiap tahun?",
+    "answer": "Perlu diperbarui hanya jika ada perubahan data, seperti kelahiran, kematian, pernikahan, atau perceraian."
+  },
+  {
+    "keywords": [
+      "ikatan dinas tugas belajar", "kewajiban tubel",
+      "masa ikatan dinas tubel"
+    ],
+    "question": "Apakah ada kewajiban ikatan dinas setelah menyelesaikan Tugas Belajar?",
+    "answer": "Ya, terdapat kewajiban ikatan dinas dengan durasi tertentu setelah menyelesaikan Tugas Belajar. Cek detail di S&K."
+  },
+  {
+    "keywords": [
+      "perbedaan tunkin", "tunkin bulan ini beda",
+      "kenapa tunkin berubah", "tunkin naik turun"
+    ],
+    "question": "Mengapa ada perbedaan nominal Tunkin antara bulan ini dan bulan lalu?",
+    "answer": "Kemungkinan karena adanya penyesuaian perhitungan, potongan pajak, atau sanksi disiplin/izin. Cek rincian di slip gaji Anda."
+  },
+  {
+    "keywords": [
+      "koreksi absensi", "lupa absen",
+      "ajukan koreksi absen", "perbaiki absensi"
+    ],
+    "question": "Bagaimana cara mengajukan koreksi absensi untuk pegawai yang lupa absen?",
+    "answer": "Masuk ke menu Koreksi Absensi di sistem Admin Satker, isi detail tanggal, jam, dan alasan, lalu unggah bukti pendukung."
+  },
+  {
+    "keywords": [
+      "cuti besar dicicil", "ambil cuti besar sedikit sedikit",
+      "apakah cuti besar bisa dicicil"
+    ],
+    "question": "Apakah cuti besar harus diambil semua atau bisa dicicil?",
+    "answer": "Cuti besar dapat diambil sekaligus atau dibagi (dicicil) sesuai ketentuan dan persetujuan atasan."
+  },
+  {
+    "keywords": [
+      "tugas belajar s2 s3", "jenjang tubel",
+      "apakah tubel hanya s2", "tubel s3 saja"
+    ],
+    "question": "Apakah Tugas Belajar hanya berlaku untuk jenjang S2/S3?",
+    "answer": "Tidak selalu. Tugas Belajar juga dapat mencakup pendidikan dan pelatihan yang relevan. Cek pengumuman rekrutmen."
+  },
+  {
+    "keywords": [
+      "tunkin dinas luar kota", "dinas luar kota tunkin",
+      "tunkin dipotong dinas luar", "tunkin saat dinas"
+    ],
+    "question": "Jika saya dinas luar kota, apakah Tunkin saya dipotong?",
+    "answer": "Tunjangan dinas luar kota dan Tunkin dihitung terpisah. Tunkin tidak dipotong selama Anda mengisi SPH dan absen sesuai ketentuan dinas."
+  },
+  {
+    "keywords": [
+      "pengenalan wajah", "face recognition",
+      "absen wajah", "kamera wajib absen"
+    ],
+    "question": "Apakah saya wajib menggunakan fitur pengenalan wajah untuk absen di Kemlu Go?",
+    "answer": "Ya, penggunaan pengenalan wajah (Face Recognition) adalah fitur keamanan wajib untuk memverifikasi identitas saat absen."
+  }
+]
